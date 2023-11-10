@@ -1,0 +1,40 @@
+@charset "UTF-8";
+body {
+            font-family: Arial, sans-serif;
+        }
+        #header {
+            background-color: #387;
+            color: #fff;
+            padding: 10px;
+        }
+        #menu {
+            background-color: #897;
+            color: #fff;
+            padding: 10px;
+        }
+        #content {
+            padding: 20px;
+            background:aqua
+        }
+        .section {
+            margin-top: 20px;
+            background:silver
+        }
+        .news {
+            margin: 10px 0;
+            color:blue
+        }
+        .news img {
+            max-width: 100%;
+            font-family:verdana
+        }
+        .author {
+            font-size: 20px;
+            color: #547;
+            text-align:center
+        }
+        .texto1 {
+            font-size: 12px;
+            color: #543;
+            text-align:right
+        }
